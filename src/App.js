@@ -15,6 +15,7 @@ class App extends Component {
   }
 
   addToCart(){
+    console.log("Hello Hoàng");
     console.log(this.node.value);
   }
 
